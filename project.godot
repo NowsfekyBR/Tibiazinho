@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="Tibiazinho"
-run/main_scene="res://Scenes/Objects Scenes/Screens/ScreenManager.tscn"
+run/main_scene="res://Scenes/Objects Scenes/Screens/StartScreen.tscn"
 run/low_processor_mode=true
 config/icon="res://icon.png"
 
