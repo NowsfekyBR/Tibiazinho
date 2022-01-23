@@ -15,6 +15,10 @@ run/main_scene="res://Scenes/Objects Scenes/Screens/StartScreen.tscn"
 run/low_processor_mode=true
 config/icon="res://icon.png"
 
+[autoload]
+
+Networking="*res://Scripts/Networking.cs"
+
 [display]
 
 window/size/resizable=false
